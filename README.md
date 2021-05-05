@@ -1,1 +1,1 @@
-# Curso de HTML e CSS, 2017.
+# Curso de introdução a HTML e CSS (2017).
