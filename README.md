@@ -1,1 +1,1 @@
-# Curso HTML CSS (UFBA 2017)
+# Curso HTML CSS (2017)
